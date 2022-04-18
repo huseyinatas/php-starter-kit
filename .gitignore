@@ -1,4 +1,6 @@
 vendor
-../php/.idea
+.idea
 yarn.lock
 package.lock
+node_modules
+composer.lock
