@@ -10,4 +10,4 @@
 <body>
 <?php echo $__env->yieldContent('content'); ?>
 </body>
-</html><?php /**PATH C:\Users\husey\Desktop\tweetify\resources\views/layout.blade.php ENDPATH**/ ?>
+</html><?php /**PATH C:\Users\husey\Desktop\php-starter-kit\resources\views/layout.blade.php ENDPATH**/ ?>
