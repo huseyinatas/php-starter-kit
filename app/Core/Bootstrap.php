@@ -8,7 +8,6 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 class Bootstrap
 {
     public $router;
-
     /**
      *
      */
@@ -39,6 +38,7 @@ class Bootstrap
         ]);
         $capsule->setAsGlobal();
         $capsule->bootEloquent();
+
 
     }
 

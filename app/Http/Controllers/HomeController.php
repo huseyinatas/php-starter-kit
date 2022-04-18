@@ -6,7 +6,11 @@ use App\Core\Controller;
 
 class HomeController extends Controller
 {
-    public function index(){
+    /**
+     * @return string
+     */
+    public function index(): string
+    {
         return view('example');
     }
 }

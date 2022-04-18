@@ -23,3 +23,4 @@ function config($key){
 function assets($url){
     return config('APP_URL').'public/'.$url;
 }
+

@@ -9,4 +9,5 @@ class Controller extends Bootstrap
         $blade = new Blade('./resources/views', './cache');
         return $blade->render($viewName, $data);
     }
+
 }

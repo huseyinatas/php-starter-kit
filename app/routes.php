@@ -1,3 +1,4 @@
 <?php
+use App\Http\Controllers\HomeController;
 
-$router->get('/', 'HomeController@index', ['before' => 'Auth']);
+$router->get('/', [HomeController::class, 'index'], ['before' => 'Auth']);
