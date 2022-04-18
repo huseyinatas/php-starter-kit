@@ -1,1 +1,1 @@
-alert('test')
+import $ from 'jquery';

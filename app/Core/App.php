@@ -2,7 +2,7 @@
 
 namespace App\Core;
 
-class App
+class App extends Bootstrap
 {
 
 }

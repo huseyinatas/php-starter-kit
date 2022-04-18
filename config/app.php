@@ -1,4 +1,4 @@
 <?php
 return[
-  'locale' => 'tr'
+  'default' => 'default'
 ];
